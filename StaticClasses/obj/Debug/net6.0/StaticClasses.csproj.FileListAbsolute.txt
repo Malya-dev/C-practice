@@ -1,0 +1,15 @@
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\bin\Debug\net6.0\StaticClasses.exe
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\bin\Debug\net6.0\StaticClasses.deps.json
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\bin\Debug\net6.0\StaticClasses.runtimeconfig.json
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\bin\Debug\net6.0\StaticClasses.dll
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\bin\Debug\net6.0\StaticClasses.pdb
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\obj\Debug\net6.0\StaticClasses.csproj.AssemblyReference.cache
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\obj\Debug\net6.0\StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\obj\Debug\net6.0\StaticClasses.AssemblyInfoInputs.cache
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\obj\Debug\net6.0\StaticClasses.AssemblyInfo.cs
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\obj\Debug\net6.0\StaticClasses.csproj.CoreCompileInputs.cache
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\obj\Debug\net6.0\StaticClasses.dll
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\obj\Debug\net6.0\refint\StaticClasses.dll
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\obj\Debug\net6.0\StaticClasses.pdb
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\obj\Debug\net6.0\StaticClasses.genruntimeconfig.cache
+C:\Users\samantad\Desktop\Evaluation6\StaticClasses\obj\Debug\net6.0\ref\StaticClasses.dll

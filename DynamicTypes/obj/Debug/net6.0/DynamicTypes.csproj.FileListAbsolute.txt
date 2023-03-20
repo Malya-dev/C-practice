@@ -1,0 +1,15 @@
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\bin\Debug\net6.0\DynamicTypes.exe
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\bin\Debug\net6.0\DynamicTypes.deps.json
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\bin\Debug\net6.0\DynamicTypes.runtimeconfig.json
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\bin\Debug\net6.0\DynamicTypes.dll
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\bin\Debug\net6.0\DynamicTypes.pdb
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\obj\Debug\net6.0\DynamicTypes.csproj.AssemblyReference.cache
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\obj\Debug\net6.0\DynamicTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\obj\Debug\net6.0\DynamicTypes.AssemblyInfoInputs.cache
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\obj\Debug\net6.0\DynamicTypes.AssemblyInfo.cs
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\obj\Debug\net6.0\DynamicTypes.csproj.CoreCompileInputs.cache
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\obj\Debug\net6.0\DynamicTypes.dll
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\obj\Debug\net6.0\refint\DynamicTypes.dll
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\obj\Debug\net6.0\DynamicTypes.pdb
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\obj\Debug\net6.0\DynamicTypes.genruntimeconfig.cache
+C:\Users\samantad\Desktop\Evaluation 7\DynamicTypes\obj\Debug\net6.0\ref\DynamicTypes.dll

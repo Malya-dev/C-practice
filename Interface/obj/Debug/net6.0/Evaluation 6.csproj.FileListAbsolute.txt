@@ -1,0 +1,30 @@
+C:\Users\samantad\Desktop\Evaluation 6\bin\Debug\net6.0\Evaluation 6.exe
+C:\Users\samantad\Desktop\Evaluation 6\bin\Debug\net6.0\Evaluation 6.deps.json
+C:\Users\samantad\Desktop\Evaluation 6\bin\Debug\net6.0\Evaluation 6.runtimeconfig.json
+C:\Users\samantad\Desktop\Evaluation 6\bin\Debug\net6.0\Evaluation 6.dll
+C:\Users\samantad\Desktop\Evaluation 6\bin\Debug\net6.0\Evaluation 6.pdb
+C:\Users\samantad\Desktop\Evaluation 6\obj\Debug\net6.0\Evaluation 6.csproj.AssemblyReference.cache
+C:\Users\samantad\Desktop\Evaluation 6\obj\Debug\net6.0\Evaluation 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samantad\Desktop\Evaluation 6\obj\Debug\net6.0\Evaluation 6.AssemblyInfoInputs.cache
+C:\Users\samantad\Desktop\Evaluation 6\obj\Debug\net6.0\Evaluation 6.AssemblyInfo.cs
+C:\Users\samantad\Desktop\Evaluation 6\obj\Debug\net6.0\Evaluation 6.csproj.CoreCompileInputs.cache
+C:\Users\samantad\Desktop\Evaluation 6\obj\Debug\net6.0\Evaluation 6.dll
+C:\Users\samantad\Desktop\Evaluation 6\obj\Debug\net6.0\refint\Evaluation 6.dll
+C:\Users\samantad\Desktop\Evaluation 6\obj\Debug\net6.0\Evaluation 6.pdb
+C:\Users\samantad\Desktop\Evaluation 6\obj\Debug\net6.0\Evaluation 6.genruntimeconfig.cache
+C:\Users\samantad\Desktop\Evaluation 6\obj\Debug\net6.0\ref\Evaluation 6.dll
+C:\Users\samantad\Desktop\Evaluation6\Interface\bin\Debug\net6.0\Evaluation 6.exe
+C:\Users\samantad\Desktop\Evaluation6\Interface\bin\Debug\net6.0\Evaluation 6.deps.json
+C:\Users\samantad\Desktop\Evaluation6\Interface\bin\Debug\net6.0\Evaluation 6.runtimeconfig.json
+C:\Users\samantad\Desktop\Evaluation6\Interface\bin\Debug\net6.0\Evaluation 6.dll
+C:\Users\samantad\Desktop\Evaluation6\Interface\bin\Debug\net6.0\Evaluation 6.pdb
+C:\Users\samantad\Desktop\Evaluation6\Interface\obj\Debug\net6.0\Evaluation 6.csproj.AssemblyReference.cache
+C:\Users\samantad\Desktop\Evaluation6\Interface\obj\Debug\net6.0\Evaluation 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samantad\Desktop\Evaluation6\Interface\obj\Debug\net6.0\Evaluation 6.AssemblyInfoInputs.cache
+C:\Users\samantad\Desktop\Evaluation6\Interface\obj\Debug\net6.0\Evaluation 6.AssemblyInfo.cs
+C:\Users\samantad\Desktop\Evaluation6\Interface\obj\Debug\net6.0\Evaluation 6.csproj.CoreCompileInputs.cache
+C:\Users\samantad\Desktop\Evaluation6\Interface\obj\Debug\net6.0\Evaluation 6.dll
+C:\Users\samantad\Desktop\Evaluation6\Interface\obj\Debug\net6.0\refint\Evaluation 6.dll
+C:\Users\samantad\Desktop\Evaluation6\Interface\obj\Debug\net6.0\Evaluation 6.pdb
+C:\Users\samantad\Desktop\Evaluation6\Interface\obj\Debug\net6.0\Evaluation 6.genruntimeconfig.cache
+C:\Users\samantad\Desktop\Evaluation6\Interface\obj\Debug\net6.0\ref\Evaluation 6.dll

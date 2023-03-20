@@ -1,0 +1,15 @@
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\obj\Debug\net6.0\Hashtable.csproj.AssemblyReference.cache
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\obj\Debug\net6.0\Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\obj\Debug\net6.0\Hashtable.AssemblyInfoInputs.cache
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\obj\Debug\net6.0\Hashtable.AssemblyInfo.cs
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\obj\Debug\net6.0\Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\bin\Debug\net6.0\Hashtable.exe
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\bin\Debug\net6.0\Hashtable.deps.json
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\bin\Debug\net6.0\Hashtable.runtimeconfig.json
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\bin\Debug\net6.0\Hashtable.dll
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\bin\Debug\net6.0\Hashtable.pdb
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\obj\Debug\net6.0\Hashtable.dll
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\obj\Debug\net6.0\refint\Hashtable.dll
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\obj\Debug\net6.0\Hashtable.pdb
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\obj\Debug\net6.0\Hashtable.genruntimeconfig.cache
+C:\Users\samantad\Desktop\Evaluation 7\Hashtable\obj\Debug\net6.0\ref\Hashtable.dll

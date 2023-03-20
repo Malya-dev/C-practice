@@ -1,0 +1,15 @@
+C:\Users\samantad\Desktop\Bank system\Bank-App\bin\Debug\net6.0\Bank-App.exe
+C:\Users\samantad\Desktop\Bank system\Bank-App\bin\Debug\net6.0\Bank-App.deps.json
+C:\Users\samantad\Desktop\Bank system\Bank-App\bin\Debug\net6.0\Bank-App.runtimeconfig.json
+C:\Users\samantad\Desktop\Bank system\Bank-App\bin\Debug\net6.0\Bank-App.dll
+C:\Users\samantad\Desktop\Bank system\Bank-App\bin\Debug\net6.0\Bank-App.pdb
+C:\Users\samantad\Desktop\Bank system\Bank-App\obj\Debug\net6.0\Bank-App.csproj.AssemblyReference.cache
+C:\Users\samantad\Desktop\Bank system\Bank-App\obj\Debug\net6.0\Bank-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samantad\Desktop\Bank system\Bank-App\obj\Debug\net6.0\Bank-App.AssemblyInfoInputs.cache
+C:\Users\samantad\Desktop\Bank system\Bank-App\obj\Debug\net6.0\Bank-App.AssemblyInfo.cs
+C:\Users\samantad\Desktop\Bank system\Bank-App\obj\Debug\net6.0\Bank-App.csproj.CoreCompileInputs.cache
+C:\Users\samantad\Desktop\Bank system\Bank-App\obj\Debug\net6.0\Bank-App.dll
+C:\Users\samantad\Desktop\Bank system\Bank-App\obj\Debug\net6.0\refint\Bank-App.dll
+C:\Users\samantad\Desktop\Bank system\Bank-App\obj\Debug\net6.0\Bank-App.pdb
+C:\Users\samantad\Desktop\Bank system\Bank-App\obj\Debug\net6.0\Bank-App.genruntimeconfig.cache
+C:\Users\samantad\Desktop\Bank system\Bank-App\obj\Debug\net6.0\ref\Bank-App.dll
